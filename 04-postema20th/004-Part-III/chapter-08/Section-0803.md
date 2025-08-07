@@ -1,12 +1,12 @@
 ---
-title: 8.3 라즈 법이론의 기초 테마들
+title: 8.3. 라즈 법이론의 기초 테마들
 layout: home
 nav_order: 3
 parent: Chapter 8 - Positivism Extended
 permalink: /postema20th/Part-III/chapter-08/0803
 ---
 
-## 8.3 라즈 법이론의 기초 테마들
+## 8.3. 라즈 법이론의 기초 테마들
 {: .no_toc }
 
 {: .toc }
