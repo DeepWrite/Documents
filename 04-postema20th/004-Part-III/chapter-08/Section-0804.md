@@ -1,5 +1,5 @@
 ---
-title: 8.4. 원천 논제(Sources Thesis)에 대한 논증
+title: 8.4. 원천 논제(Sources Thesis)를 옹호하는 논증
 layout: home
 nav_order: 4
 parent: Chapter 8 - Positivism Extended
