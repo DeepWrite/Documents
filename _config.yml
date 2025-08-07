@@ -7,3 +7,8 @@ url: https://DeepWrite.github.io/
 
 aux_links:
   Hart Concept: https://DeepWrite.github.io/HartConcept 
+
+just_the_docs:
+  aux_links:
+  toc:
+    max_level: 4  # H1=1, H2=2, ..., H4=4

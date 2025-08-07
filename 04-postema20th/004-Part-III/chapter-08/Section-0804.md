@@ -4,8 +4,6 @@ layout: home
 nav_order: 4
 parent: Chapter 8 - Positivism Extended
 permalink: /postema20th/Part-III/chapter-08/0804
-toc: true
-toc_levels: 2..4  # H2~H4까지만
 ---
 
 ## 8.4. 원천 논제(Sources Thesis)를 옹호하는 논증
