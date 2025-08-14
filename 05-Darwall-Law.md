@@ -7,3 +7,4 @@ permalink: /darwall-law/
 
 # 05. Darwall의 도덕, 권위, 법
 
+원서명: Morality, Authority, and Law: Essays in Second-Personal Ethics I
