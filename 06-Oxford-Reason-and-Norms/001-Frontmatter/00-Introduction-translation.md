@@ -1,3 +1,11 @@
+---
+title: Introduction(Reason and Norms)
+layout: home
+nav_order: 1
+parent: Frontmatter(Reason and Norms)
+permalink: /Reason-and-Norms/Frontmatter/Introduction
+---
+
 # Introduction
 
 *Daniel Star*
