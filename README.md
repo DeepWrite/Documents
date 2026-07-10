@@ -1,5 +1,11 @@
 # just-the-docs-template
 
+> [!IMPORTANT]
+> **2026-07-10 보관 전환.** 이 Jekyll 번역자료 사이트는 역사 자료로만
+> 보존합니다. 새 번역·출처 텍스트·연구 원고를 이 리포에 추가하거나 공개
+> 워크플로를 재개하지 마십시오. 현재 작업의 이동 경로는
+> [ARCHIVED.md](ARCHIVED.md)를 따릅니다.
+
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
 - uses the [Just the Docs] theme;
